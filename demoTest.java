@@ -6,6 +6,6 @@ public class demoTest {
 
     @Test
     public void division() {
-        assertEquals(5, demo.division(5, 8));
+        assertEquals(5, demo.division(5, 1));
     }
 }
